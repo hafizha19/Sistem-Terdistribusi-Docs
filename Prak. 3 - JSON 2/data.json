@@ -1,0 +1,100 @@
+{
+    "barang": [
+        {
+            "kategori": "gamis",
+            "nama": "Gamis 1",
+            "deskripsi": "Gamis mantap, nyaman, murah.",
+            "harga": 280,
+            "gambar": "dress1.jpg"
+
+        },
+        {
+            "kategori": "gamis",
+            "nama": "Gamis 2",
+            "deskripsi": "Gamis mantap, nyaman, murah.",
+            "harga": 230,
+            "gambar": "dress2.jpg"
+
+        },
+        {
+            "kategori": "gamis",
+            "nama": "Gamis 3",
+            "deskripsi": "Gamis mantap, nyaman, murah.",
+            "harga": 200,
+            "gambar": "dress3.jpg"
+
+        },
+        {
+            "kategori": "gamis",
+            "nama": "Gamis 4",
+            "deskripsi": "Gamis mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "dress4.jpg"
+
+        },
+        {
+            "kategori": "jilbab",
+            "nama": "Jilbab 1",
+            "deskripsi": "Jilbab mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "jilbab1.jpg"
+
+        },
+        {
+            "kategori": "jilbab",
+            "nama": "Jilbab 2",
+            "deskripsi": "Jilbab mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "jilbab2.jpg"
+
+        },
+        {
+            "kategori": "jilbab",
+            "nama": "Jilbab 3",
+            "deskripsi": "Jilbab mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "jilbab3.jpg"
+
+        },
+        {
+            "kategori": "jilbab",
+            "nama": "Jilbab 4",
+            "deskripsi": "Jilbab mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "jilbab4.jpg"
+
+        },
+        {
+            "kategori": "rok",
+            "nama": "Rok 1",
+            "deskripsi": "Rok mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "rok1.jpg"
+
+        },
+        {
+            "kategori": "rok",
+            "nama": "Rok 2",
+            "deskripsi": "Rok mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "rok2.jpg"
+
+        },
+        {
+            "kategori": "rok",
+            "nama": "Rok 3",
+            "deskripsi": "Rok mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "rok3.jpg"
+
+        },
+        {
+            "kategori": "rok",
+            "nama": "Rok 4",
+            "deskripsi": "Rok mantap, nyaman, murah.",
+            "harga": 180,
+            "gambar": "rok4.jpg"
+
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "NO" : 520307190410028,
+    "nama_kepala_keluarga" : "MUKSIN",
+    "RT" : 11,
+    "kelurahan" : "Selong",
+    "kecamatan" : "Selong",
+    "kabupaten" : "Lombok Timur",
+    "kode_pos" : 83612,
+    "provinsi" : "Nusa Tenggara Barat",
+    "orang_tua" : [
+        {
+            "ayah" : {
+                "nama" : "Muksin, S.Pd",
+                "nik" : 5203072404690001,
+                "jenis_kelamin" : "Laki-laki",
+                "ttl" : "Selong, 24 April 1969",
+                "agama" : "Islam",
+                "pendidikan" : "S1",
+                "pekerjaan" : "Guru"
+            }
+        },
+        {
+            "ibu" : {
+                "nama" : "Zuhratul Jannah, S.Pd",
+                "nik" : 5203075212740001,
+                "jenis_kelamin" : "Perempuan",
+                "ttl" : "Selong, 12 Desember 1974",
+                "agama" : "Islam",
+                "pendidikan" : "S1",
+                "pekerjaan" : "IRT"
+            }
+        }
+    ],
+    "anak" : [
+        {
+            "nama" : "Hafizhatul Kiromi MZ",
+            "nik" : 5203075903990002,
+            "jenis_kelamin" : "Perempuan",
+            "ttl" : "Selong, 19 Maret 1999",
+            "agama" : "Islam",
+            "pendidikan" : "SMA",
+            "pekerjaan" : "Mahasiswa"
+        },
+        {
+            "nama" : "Muhammad Abidin Zaki Asyikin MZ",
+            "nik" : 5203071001030004,
+            "jenis_kelamin" : "Laki-laki",
+            "ttl" : "Selong, 10 Januari 2003",
+            "agama" : "Islam",
+            "pendidikan" : "SMP",
+            "pekerjaan" : "Pelajar"
+        },
+        {
+            "nama" : "Surayya Ditria Qisthina MZ",
+            "nik" : 5203076712060002,
+            "jenis_kelamin" : "Perempuan",
+            "ttl" : "Selong, 27 Desember 2007",
+            "agama" : "Islam",
+            "pendidikan" : "SD",
+            "pekerjaan" : "Pelajar"
+        },
+        {
+            "nama" : "Muhammad Abqory Sajjad MZ",
+            "nik" : 5203072312150001,
+            "jenis_kelamin" : "Laki-laki",
+            "ttl" : "Selong, 23 Desember 2015",
+            "agama" : "Islam",
+            "pendidikan" : "Belum Sekolah",
+            "pekerjaan" : "Belum Bekerja"
+        }
+    ]
+}
